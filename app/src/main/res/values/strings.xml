@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="user_photo">Photo of User</string>
+    <string name="username">Username</string>
+    <string name="user_mail">Username/Email</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="subscriber">Subscribed</string>
+    <string name="training_session">Training Sessions booked</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="booking">Booking</string>
+    <string name="news">News</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
